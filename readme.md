@@ -1,4 +1,4 @@
-# Lovecraft Story Analysis
+# Exploring Lovecraft’s Fiction: A Data-Driven Approach
 
 This project analyzes the word count and sentiment of **H.P. Lovecraft's** stories to explore potential correlations between story length and emotional tone.
 
